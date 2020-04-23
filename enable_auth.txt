@@ -1,5 +1,8 @@
 https://medium.com/rahasak/enable-mongodb-authentication-with-docker-1b9f7d405a94
 
+In Windows 10 install
+Mongodb community (all except "server" and "router")
+Mongodb Compass (the GUI)
 
 Comment the "command" directive in yml file
 
